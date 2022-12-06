@@ -1,0 +1,56 @@
+.bgimg{background-image: radial-gradient(#dff9fb,#4834d4);
+height: 100vh;
+width:100%;
+border-radius: 16px;}
+.homehead{color:white;
+    border-style: groove;
+    border-color:white;
+    border-radius: 15px;
+    background-color: cadetblue;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 40px;
+padding-left: 20px;
+margin: 20px;}
+.first{margin-top: 10px;
+    border-radius: 16px;
+    border-style: groove;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin: 30px;
+    background-color: aliceblue;
+}
+.cardingmain{padding-top:200px;
+    padding-left: 190px;}
+.chead{font-family: Arial, Helvetica, sans-serif;font-weight: bold;font-size: 25px;}
+.para2{font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;}
+.carding{background-image: linear-gradient(white);
+ color: black ;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+margin: 6px;
+border-radius: 15px;
+border-style: groove;
+box-sizing: border-box; }
+.imaggi2{height: 70px;
+    margin-left: 90px;
+width: 90px;}
+.stylingb{background-color: yellow;
+border-radius: 10px;
+border-color: black;
+width:90px;
+height: 30px;}
+.carding{background-image: linear-gradient(white);
+    color: black ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 6px;
+    border-radius: 15px;
+    border-style: groove;
+    box-sizing: border-box;
+    transition: transform .1s;
+    }
+    .carding:hover{color:black;
+    background-color: #63cdda;
+    transform: scale(1.5);}
